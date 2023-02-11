@@ -33,4 +33,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deployed on Vercel
 
--[Next.js Application] (https://nextjs-event-enf3df4ju-taharizwanmughal-gmailcom.vercel.app/)
+- [Next.js Application](https://nextjs-event-enf3df4ju-taharizwanmughal-gmailcom.vercel.app/)
